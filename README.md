@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Dhana Siva Shankar
 
-<!--
-**dhanasivashankar/dhanasivashankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 SAP ABAP | Java | Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate developer interested in building practical applications
+and solving problems using Java, SAP ABAP, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+- Java
+- Python
+- SQL
+- ABAP
+
+### Technologies
+- SAP ABAP
+- Spring Boot
+- React
+- REST APIs
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- Eclipse
+- VS Code
+
+---
+
+## 🚀 Projects
+
+### 🔹 Project Name
+Short description of what the project does.
+
+**Tech Stack:** Java, Spring Boot, MySQL
+
+### 🔹 Another Project
+Short description of the project.
+
+**Tech Stack:** Python, Machine Learning, Streamlit
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/YOUR_USERNAME)
